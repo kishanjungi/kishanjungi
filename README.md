@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🎓 B.Tech Computer Engineering | Passionate Developer |  MERN Stack  |  DSA Practitioner
+
+
+##Skills
         [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java)](https://skillicons.dev)
